@@ -1,0 +1,214 @@
+---
+title: "Curriculum Vitae"
+toc: true
+toc-location: right
+toc-title: "On this page"
+---
+
+## Education
+
+::: {.entry}
+[2023 - present]{.when}
+**Ph.D. in Geography** - McMaster University, Hamilton, ON, Canada\
+Dissertation: *Developing standards for equity in transportation planning and policy*\
+Supervisor: Antonio Páez - Expected defence: September 2027\
+Coursework: Discrete Choice Analysis; Applied Data Analysis; Reproducible Research Workflow; Transport Policy\
+Funded by the Mobilizing Justice Partnership (SSHRC)
+:::
+
+::: {.entry}
+[Feb - Oct 2024]{.when}
+**Graduate Residency in Digital Scholarship** - Sherman Centre for Digital Scholarship, McMaster University
+:::
+
+::: {.entry}
+[2021 - 2023]{.when}
+**M.Sc. in Remote Sensing** - National Institute for Space Research (INPE), São José dos Campos, Brazil, with a research stay at McMaster University\
+Thesis: *Identifying urban and socio-environmental patterns in Amazon cities*\
+Supervisors: Silvana Amaral (INPE), Carolina M. D. de Pinho (UFABC) and Antonio Páez (McMaster)\
+Coursework: Digital Image Processing; Detection and analysis of Land Use and Land Cover change patterns; Spatial Data Analysis; 
+Additional coursework (Applied Computing): Artificial Intelligence; Geographical Databases\
+Funded by CNPq (Brazil) and Global Affairs Canada
+:::
+
+::: {.entry}
+[2013 - 2019]{.when}
+**B.Sc. in Environmental and Urban Engineering** - Federal University of ABC (UFABC), Brazil\
+Thesis: *Identification of precarious settlements in the Greater ABC region based on remote sensing data*\
+Supervisor: Carolina M. D. de Pinho
+:::
+
+::: {.entry}
+[2013 - 2017]{.when}
+**B.Sc. in Science and Technology** - Federal University of ABC (UFABC), Brazil
+:::
+
+## Experience
+
+::: {.entry}
+[2023 - present]{.when}
+**PhD Researcher, Data-Driven Equity Standards** - Mobilizing Justice Partnership, McMaster University
+:::
+
+::: {.entry}
+[2024 - present]{.when}
+**MePLUS Program Facilitator** - McMaster University\
+MePLUS (McMaster Equitable Pathways to Learning University Sciences) is a free, 10-month program of science workshops, mentorship and skill building for Black, Indigenous and Latinx high school students in Hamilton. I develop and lead workshops and organize the mentorship program. [Program website](https://edii.science.mcmaster.ca/meplus/)
+:::
+
+::: {.entry}
+[2023 - present]{.when}
+**Teaching Assistant** - School of Earth, Environment & Society, McMaster University
+:::
+
+::: {.entry}
+[Mar - Sep 2023]{.when}
+**GIS Developer** - DIGIMAP\
+Designed and implemented web-based mapping platforms for municipalities and private organizations.
+:::
+
+::: {.entry}
+[2021 - 2023]{.when}
+**Master's Researcher** - Earth Observation and Geoinformatics Division, INPE, Brazil
+:::
+
+::: {.entry}
+[2018 - 2021]{.when}
+**GIS and Remote Sensing Supervisor** (Analyst until 2019) - Audsat, Brazil\
+Managed a team of six employees and multiple temporary workers in geospatial analysis projects.
+:::
+
+::: {.entry}
+[2017 - 2018]{.when}
+**Environmental Engineering Intern** - Cabot Corporation, Brazil
+:::
+
+::: {.entry}
+[2015 - 2017]{.when}
+**Undergraduate Researcher** - Mapping team, Evictions Observatory (Observatório de Remoções), UFABC
+:::
+
+::: {.entry}
+[2015]{.when}
+**Environmental Engineering Intern** - City of São Paulo\
+Geoprocessing, municipal environmental licensing and related technical support.
+:::
+
+## Honours and awards
+
+::: {.entry}
+[2025]{.when}
+**Emerging Scholars Award** - Canadian Research Data Centre Network (CRDCN) - CAD $1,200
+:::
+
+::: {.entry}
+[2024]{.when}
+**SEES Equity, Diversity, Inclusion & Indigeneity Graduate Student Award** - McMaster University - CAD $1,000
+:::
+
+::: {.entry}
+[2022]{.when}
+**Emerging Leaders in the Americas Program (ELAP)** - Global Affairs Canada - CAD $11,100
+:::
+
+## Research funding
+
+::: {.entry}
+[2023 - 2027]{.when}
+**PhD Scholarship** - [Mobilizing Justice Partnership (SSHRC)](https://mobilizingjustice.ca/)
+:::
+
+::: {.entry}
+[2021 - 2023]{.when}
+**Master's Scholarship** - Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), Brazil - CAD $7,300
+:::
+
+::: {.entry}
+[2015 - 2017]{.when}
+**Scientific Initiation Scholarship** - Fundação de Apoio à Universidade de São Paulo - CAD $6,300
+:::
+
+## Methods and technical skills
+
+- **Statistical modelling:** linear, logit, multinomial and ordinal regression models
+- **Machine learning:** supervised and unsupervised classification 
+- **Survey microdata:** 2021 Census of Population, General Social Survey - Time Use (1986-2021) and National Survey on Transport Poverty, through the Statistics Canada Research Data Centre
+- **Programming and reproducible research:** R (package development: AmazonULC, ActiveCA, CommuteCA), Python, literate programming
+- **GIS and remote sensing:** QGIS; geographic object-based image analysis (GEOBIA); segmentation
+
+## Languages
+
+Portuguese (native) - English (fluent) - Spanish (fluent reading and understanding; functional speaking and writing)
+
+## Service
+
+### Journal reviewing
+
+*Environment and Planning B: Urban Analytics and City Science* (2026) - *Transportation* (2026) - *Revista do Departamento de Geografia (USP)* (2026) - *Urban Planning* (2026) - *Journal of Transport Geography* (2024) - *Journal of Geographical Systems* (2023)
+
+### Committees
+
+::: {.entry}
+[2023 - 2024]{.when}
+**Committee Member, SEES Grad Buddies Committee** - McMaster University\
+International representative: answered incoming students' questions and matched new graduate students with undergraduate "buddies".
+:::
+
+::: {.entry}
+[2023 - 2024]{.when}
+**EDI Representative, SEES Graduate Student Collective** - McMaster University
+:::
+
+### Event organization
+
+::: {.entry}
+[Apr 2023]{.when}
+**Conference Monitor, XX Brazilian Symposium on Remote Sensing (SBSR)** - Florianópolis, Brazil\
+Technical support for invited speakers, registration and organization of oral presentations at Latin America's largest GIS and remote sensing symposium.
+:::
+
+::: {.entry}
+[Nov 2016]{.when}
+**Organizer, National Seminar "Evictions, Resistance and Interventions"** - Brazil\
+Shared the results of the Evictions Observatory; 19 papers presented by researchers from Brazilian universities.
+:::
+
+## Outreach and community
+
+::: {.entry}
+[2023 - present]{.when}
+**Program Facilitator, Latin American Network at McMaster University (LANMU)**\
+Project assistant; Organizer of the LANMU's mentorship program.
+:::
+
+::: {.entry}
+[2016 - 2017]{.when}
+**Community Outreach Facilitator - Traditional Caiçara Community of Juréia**, SP, Brazil\
+Taught geoprocessing fundamentals so residents could document the traditional use of their territory in the process to secure land titles.
+:::
+
+::: {.entry}
+[2015 - 2016]{.when}
+**Affirmative Action Monitor - UFABC Diversifica**\
+:::
+
+::: {.entry}
+[2014 - 2019]{.when}
+**Geography Teacher - Cursinho Comunitário Bonsucesso**\
+Taught geography at a community course preparing public-school students for university entrance; organized field trips to museums and the city centre.
+:::
+
+::: {.entry}
+[2014 - 2015]{.when}
+**Community Outreach Facilitator - Quilombola Community of Poça**, SP, Brazil\
+Taught fundamentals of cartography and built a topographical model of the territory with residents, supporting their land-titling process.
+:::
+
+## Additional training
+
+- **2025** - Merge Program, McMaster English Language Development Office (200 h)
+- **2023** - Python for SysAdmin Training, 4Linux (100 h)
+- **2020** - Python and Spark for Big Data and Machine Learning, 4Linux (100 h)
+- **2020** - Land Cover Change Classification using GEOBIA, INPE / SELPER (40 h)
+- **2020** - Spatial Data Science and Applications, Yonsei University (20 h)
+- **2016** - Orthorectification of aerial photographs, Federal University of ABC

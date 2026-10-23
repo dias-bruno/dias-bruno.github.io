@@ -1,0 +1,96 @@
+---
+title: "Teaching"
+toc: true
+toc-location: right
+toc-title: "On this page"
+---
+
+## Courses taught
+
+::: {.entry}
+[Jan - Apr 2026]{.when}
+**Sessional Instructor - Applied Spatial Statistics (ENVSOCTY 4GA3)**\
+McMaster University - Undergraduate, 48 students
+:::
+
+## Guest lectures
+
+::: {.entry}
+[Sep 2023 & Sep 2024]{.when}
+**Transport Policy - Policy evaluation**\
+McMaster University - Undergraduate, 40 students
+:::
+
+::: {.entry}
+[Aug 2023]{.when}
+**Digital Image Processing - Geographic Object-Based Image Analysis (GEOBIA)**\
+National Institute for Space Research (INPE) - Postgraduate, 40 students
+:::
+
+::: {.entry}
+[Nov 2015]{.when}
+**Territorial Planning and Management - Geoprocessing workshop using QGIS**\
+Federal University of ABC - Postgraduate, 15 students
+:::
+
+::: {.entry}
+[Dec 2014]{.when}
+**Support for local governments in identifying areas suitable for housing production under the *Minha Casa, Minha Vida* Program**\
+National Housing Secretariat, Ministry of Cities (Brazil) - Graduate, remote
+:::
+
+## Course development
+
+::: {.entry}
+[Jun 2024]{.when}
+**Exploratory Data Analysis (EDA) with R** - Content creator\
+Federal University of ABC - Graduate, 30 students\
+I developed the teaching material for the Brazilian version of the course and took part in the classes as a teaching assistant. [Course website](https://paezha.github.io/edashop/index.html)
+:::
+
+## Teaching assistant
+
+::: {.entry}
+[2023 - present]{.when}
+**McMaster University**\
+Regional Geography of Canada (ENVSOCTY 2OC3) - Regional Geography of the United States (ENVSOCTY 2RU3) - Geographical Information Science (ENVSOCTY 2GI3) 
+:::
+
+::: {.entry}
+[Feb 2022 - Jan 2023]{.when}
+**Geoprocessing for Territorial Planning in the Greater ABC Region** - Federal University of ABC\
+A course for technicians and managers of the Municipal Alliance of Grande ABC (Environment and Urban Planning working groups) and Ribeirão Pires City Hall.
+:::
+
+::: {.entry}
+[2018 - 2022]{.when}
+**Federal University of ABC** - Undergraduate teaching assistant\
+Cartography and Geoprocessing Applied to Territorial Planning (2019, 2022) - Remote Sensing (2016, 2018)
+:::
+
+## Student supervision
+
+::: {.entry}
+[Sep 2022 - Sep 2023]{.when}
+**Luisa Akemi Bernardino Kanzato** - Co-supervisor, Federal University of ABC\
+Undergraduate research project identifying and classifying the spatial distribution of urban vegetation in Santarém, Brazilian Amazon, using remote sensing.
+:::
+
+::: {.entry}
+[Sep 2022 - Sep 2023]{.when}
+**Michelle Neves de Azevedo** - Co-supervisor, Federal University of ABC\
+Undergraduate research project on the temporal analysis of satellite imagery of Santarém (2002–2021), mapping built-up areas.
+:::
+
+## Mentoring
+
+::: {.entry}
+[2026 - 2027]{.when}
+**Organizer, LANMU Mentorship Program** - Latin American Network at McMaster University\
+Organizing a program of more than 30 mentor-mentee pairs of undergraduate and graduate students, postdocs, faculty and staff.
+:::
+
+::: {.entry}
+[2024 - 2026]{.when}
+**Mentor, Latin American and Latinx Student Mentorship Program** - McMaster University
+:::

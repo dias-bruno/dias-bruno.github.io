@@ -1,0 +1,174 @@
+---
+title: "Research"
+toc: true
+toc-location: right
+toc-title: "On this page"
+---
+
+My doctoral research, *Developing standards for equity in transportation planning and policy*, combines accessibility analysis, survey microdata and statistical modelling to ask how much access to opportunities is considered sufficient, and for whom. Earlier, my work used remote sensing and machine learning to map urban and socio-environmental patterns in Brazilian Amazonian cities and precarious settlements in São Paulo, Brazil.
+
+## Peer-reviewed journal articles
+
+::: {.pub}
+**Dos Santos, B. D.**, Hanson, T. R., & Páez, A. (2026). Dignity in transportation: A scoping review and theoretical framework. *Transport Reviews*, 1-23. [DOI](https://doi.org/10.1080/01441647.2026.2751463)
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, Moghadasi, M., & Páez, A. (2026). A 30-year analysis of active travel behaviour in Canada. *Journal of Transport Geography*, 131, 104561. [DOI](https://doi.org/10.1016/j.jtrangeo.2026.104561)
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, Moghadasi, M., & Páez, A. (2025). ActiveCA: Time use data from the General Social Survey of Canada to study active travel. *Environment and Planning B: Urban Analytics and City Science*, 52(8), 2037-2047. [DOI](https://doi.org/10.1177/23998083251374724) · [Package](https://dias-bruno.github.io/ActiveCA/)
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, De Pinho, C. M. D., Páez, A., & Amaral, S. (2023). Identifying urban and socio-environmental patterns of Brazilian Amazonian cities by remote sensing and machine learning. *Remote Sensing*, 15(12), 3102. [DOI](https://doi.org/10.3390/rs15123102)
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, Kampel, M., Pinho, C. M. D., Ribeiro, R. M., Páez, A., & Amaral, S. (2023). State-of-the-art and framework for identifying urban patterns by remote sensing data. *Revista Brasileira de Cartografia*, 75, 1-20. [DOI](https://doi.org/10.14393/rbcv75n0a-67966)
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, De Pinho, C. M. D., Oliveira, G. E. T., Korting, T. S., Escada, M. I. S., & Amaral, S. (2022). Identifying precarious settlements and urban fabric typologies based on GEOBIA and data mining in Brazilian Amazon cities. *Remote Sensing*, 14(3), 704. [DOI](https://doi.org/10.3390/rs14030704)
+:::
+
+::: {.pub}
+Souza, D. P. D., Da Silva, W. R. S., Cervinski, G. C., **Dos Santos, B. D.**, Comarú, F. D. A., & Trigoso, F. B. M. (2018). Desenvolvimento urbano e saúde pública: impactos da construção da UHE de Belo Monte [Urban development and public health: impacts of the construction of the Belo Monte Hydroelectric Complex]. *Desenvolvimento e Meio Ambiente*, 46, 154-173.
+:::
+
+## Papers under review
+
+::: {.pub}
+**Dos Santos, B. D.**, Soukhov, A., & Páez, A. (2026). Exploring equity standards for transport policy: A case study of objective accessibility, perceived accessibility, and employment outcomes in the Greater Toronto and Hamilton Area, Canada. *Transportation Research Part A: Policy and Practice*. <span class="badge-status">Revisions requested</span> [Code](https://github.com/dias-bruno/NSTP/)
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, & Páez, A. (2026). CommuteCA: An R package with datasets and standardized methods for job accessibility analysis using Canadian Census microdata. *Transportation*. <span class="badge-status">Submitted</span> [Package](https://dias-bruno.github.io/CommuteCA/)
+:::
+
+::: {.pub}
+Sbrocchi, A., **Dos Santos, B. D.**, Ravensbergen, L., & Páez, A. (2023). Policy sabotage? Developing a tool using the King Street East transit-only lane in Hamilton, Ontario. *Transport Policy*. <span class="badge-status">Submitted</span>
+:::
+
+## Full papers in conference proceedings
+
+::: {.pub}
+**Dos Santos, B. D.**, & Páez, A. (2025). Comparing job accessibility in diverse spatial patterns in the Greater Golden Horseshoe area, Ontario, Canada. In *Anais do XXI Simpósio Brasileiro de Sensoriamento Remoto* (pp. 1-8). INPE.
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, Amaral, S., Páez, A., & Pinho, C. M. D. (2023). A geographical database for evictions and threats of involuntary urban evictions patterns. In *Anais do XX Simpósio Brasileiro de Sensoriamento Remoto* (pp. 1860-1863). INPE.
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, Amaral, S., Pinho, C. M. D., & Páez, A. (2023). Adapting socioeconomic indicators and identifying intra-urban typologies in Santarém - PA. In *Anais do XX Simpósio Brasileiro de Sensoriamento Remoto* (pp. 1935-1938). INPE.
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, Azevedo, M. N., Kanzato, L. A. B., Pinho, C. M. D., Páez, A., & Amaral, S. (2023). CBERS-4A imagery for mapping urban land cover in the Amazon. In *Anais do XX Simpósio Brasileiro de Sensoriamento Remoto* (pp. 2163-2166). INPE.
+:::
+
+::: {.pub}
+Kanzato, L. A. B., **Dos Santos, B. D.**, & Pinho, C. M. D. (2023). Extraction of urban greenery in Santarém - PA based on analysis of CBERS-4A images. In *Proceedings of the XXIV Brazilian Symposium on Geoinformatics (GEOINFO 2023)* (pp. 501-506). INPE.
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, Amaral, S., & De Pinho, C. M. D. (2021). Elaboração de um Índice de Precariedade para Municípios Ribeirinhos Amazônicos [Development of a precarity index for Amazonian riverside municipalities]. In *Anais do VI Seminário Nacional População, Espaço e Ambiente* (pp. 1-5). ABEP.
+:::
+
+::: {.pub}
+Medeiros, T., **Dos Santos, B. D.**, Oliveira, G., Korting, T., & Queiroz, G. (2021). Utilizando o padrão SpatioTemporal Asset Catalog para visualização de dados [Using the SpatioTemporal Asset Catalog standard for data visualization]. In *Proceedings of the XXII Brazilian Symposium on Geoinformatics (GEOINFO 2021)* (pp. 264-269). INPE.
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, Pinho, C. M., & Barbosa, T. (2019). Identificação de assentamentos precários no Grande ABC a partir de dados de sensoriamento remoto [Identification of precarious settlements in the Greater ABC region based on remote sensing data]. In *Anais do XIX Simpósio Brasileiro de Sensoriamento Remoto* (pp. 3224-3227). INPE.
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, & Pinho, C. M. (2017). Análise de imagens de alta resolução espacial baseada em objetos para classificação de assentamentos precários [Object-based analysis of high spatial resolution images for classifying precarious settlements]. In *Anais do XVIII Simpósio Brasileiro de Sensoriamento Remoto* (pp. 6226-6232). INPE.
+:::
+
+::: {.pub}
+Costa, C. O., França, H., Carneiro, A. P., Carneiro, H. P., Fortes, J. M. S., Prado, M. V. S., Prado, P. S., Lopes, A. S., Duarte, D., **Dos Santos, B. D.**, Adams, C., & Tambosi, L. R. (2017). Spatial dynamics of Caiçara itinerant agriculture (1962-2011) in Prelado State Park. In *Anais do VIII Encontro Nacional da ANPPAS* (pp. 1-13). ANPPAS.
+:::
+
+## Book chapters
+
+::: {.pub}
+**Santos, B. D.**, & Negri, G. (2017). Experiência de implementação de uma plataforma de mapeamento [Experience of implementing a mapping platform]. In R. Rolnik, K. Leitão, F. Comaru, & R. D. Lins (Eds.), *Observatório de remoções: 2015-2017* (Vol. 1, pp. 165-180). FAUUSP.
+:::
+
+::: {.pub}
+Bedeschi, L., Paterniani, S., Rolnik, R., Lins, R., Negri, G., & **Santos, B. D.** (2017). Mapeamento colaborativo de remoções e ameaças de remoções em São Paulo, Santo André, São Bernardo do Campo, Diadema e Mauá [Collaborative mapping of evictions and threats of evictions]. In R. Rolnik, K. Leitão, F. Comaru, & R. D. Lins (Eds.), *Observatório de remoções: 2015-2017* (Vol. 1, pp. 9-36). FAUUSP.
+:::
+
+::: {.pub}
+Comaru, F. A., Pinho, C. M., Nogueira, F., Moretti, R. S., **Santos, B. D.**, Vigliar, C., Corazza, D., Kagan, F., Lourenco, I. C., Varallo, L., Bedeschi, L., Moreira, P., Barbosa, T., & Gonsales, T. A. (2017). Precisamos falar sobre moradia nas áreas da Ecovias/Imigrantes: Resistência popular e alternativas técnicas [We must talk about housing in the Ecovias/Imigrantes areas: Popular resistance and technical alternatives]. In *Observatório de remoções: 2015-2017* (Vol. 1, pp. 123-152). FAUUSP.
+:::
+
+::: {.pub}
+Corazza, D., Gonsales, T. A., Vigliar, C., Moretti, R. S., Pinho, C. M., Kagan, F., Moreira, P., Lourenco, I. C., Barbosa, T., **Santos, B. D.**, & Comaru, F. A. (2016). Entre a informalidade e o direito de morar: formas de resistência na cidade de São Paulo e no ABC [Between informality and the right to live: forms of resistance in the city of São Paulo and the ABC]. In V. Marx & M. A. Costa (Eds.), *Participação, conflitos e intervenções urbanas: contribuições à Habitat III* (Vol. 1, pp. 179-198). UFRGS.
+:::
+
+## Theses
+
+::: {.pub}
+**Dos Santos, B. D.** (2023). *Identifying urban and socio-environmental patterns in Amazon cities*. Master's thesis, National Institute for Space Research (INPE), Brazil.
+:::
+
+::: {.pub}
+**Dos Santos, B. D.** (2019). *Identification of precarious settlements in the Greater ABC region based on remote sensing data*. Bachelor's thesis, Federal University of ABC (UFABC), Brazil.
+:::
+
+## Software and data
+
+I develop open R data packages for transport and urban research - see [Packages](packages.qmd) for ActiveCA, CommuteCA and amazonULC.
+
+## Presentations
+
+::: {.pub}
+**Dos Santos, B. D.**, & Páez, A. (2026). The effect of job accessibility on employment outcomes: Evidence from the Canadian National Survey on Transport Poverty. *NECTAR Conference 2026*, Munich, Germany.
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, & Páez, A. (2026). ActiveCA: An open data product for active travel research in Canada. *CAG/CARTO Annual Meeting 2026*, Victoria, BC, Canada.
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, & Páez, A. (2025). Comparing job accessibility in diverse spatial patterns in the Greater Golden Horseshoe area, Ontario, Canada. *XXI Brazilian Symposium on Remote Sensing (SBSR)*, Salvador, Brazil.
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, Amaral, S., & Pinho, C. M. D. (2021). Development of a precarity index for Amazonian riverside municipalities. *VI National Seminar on Population, Space and Environment*, online (invited).
+:::
+
+::: {.pub}
+Medeiros, T., **Dos Santos, B. D.**, Oliveira, G., Korting, T., & Queiroz, G. (2021). Using the SpatioTemporal Asset Catalog standard for data visualization. *XXII Brazilian Symposium on Geoinformatics (GEOINFO)*, online.
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, & Pinho, C. M. (2019). Levels of consolidation of precarious settlements based on remote sensing data. *XIX Brazilian Symposium on Remote Sensing (SBSR)*, Santos, Brazil.
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, & Pinho, C. M. (2017). Object-based analysis of high spatial resolution images for classifying precarious settlements. *XVIII Brazilian Symposium on Remote Sensing*, Santos, Brazil.
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, & Pinho, C. M. (2017). Typology of consolidation levels of communities affected by urban evictions based on remote sensing data. *Transversal Dialogues INPE-UFABC-USP*, São José dos Campos, Brazil (invited).
+:::
+
+::: {.pub}
+**Dos Santos, B. D.**, Lopes, A. S., Hamburger, D. S., Duarte, D., França, H., & Noguhi, R. Y. (2014). Cartography teaching practices in the Quilombola Community of Poça in Eldorado/Jacupiranga-SP. *IV Grande ABC Research Symposium*, São Bernardo do Campo, Brazil.
+:::
+
+## Research projects
+
+::: {.pub}
+**Data-Driven Equity Standards** (2023-present) - PhD researcher, Mobilizing Justice Partnership, McMaster University.
+:::
+
+::: {.pub}
+**Evictions Observatory (Observatório de Remoções)** (2015-2017) - Undergraduate researcher on the mapping team, studying consolidation levels of communities affected by urban evictions using remote sensing data. Supervised by Carolina M. D. de Pinho; funded by the Ford Foundation.
+:::

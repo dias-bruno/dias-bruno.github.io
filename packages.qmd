@@ -1,0 +1,44 @@
+---
+title: "Packages"
+---
+
+Open R data packages I develop for transport and urban research. Each one has its own documentation site with examples.
+
+::: {.pkg}
+## ActiveCA
+
+Analysis-ready Canadian time-use data on walking and cycling. ActiveCA provides active travel episodes from seven cycles of the General Social Survey - Time Use (1986 - 2022), with origin and destination types, trip durations, province, urban/rural setting and episode weights, plus pre-estimated impedance functions for walking and cycling in Census Metropolitan Areas and Census Agglomerations.
+
+```r
+# install.packages("pak")
+pak::pak("dias-bruno/ActiveCA")
+```
+
+[Documentation](https://dias-bruno.github.io/ActiveCA/){.btn .btn-outline-primary .btn-sm} [GitHub](https://github.com/dias-bruno/ActiveCA){.btn .btn-outline-primary .btn-sm} [Paper (EPB, 2025)](https://doi.org/10.1177/23998083251374724){.btn .btn-outline-primary .btn-sm}
+:::
+
+::: {.pkg}
+## CommuteCA
+
+Datasets and standardized methods for job accessibility analysis with Canada's 2021 Census of Population. CommuteCA includes calibrated impedance functions for walking, cycling, public transit and car (optionally by education level) at the Census Division, CMA/CA and provincial levels; census tract data on labour force by commuting mode and jobs; functions to look up impedance functions and compute impedance from travel times; and R Markdown templates for accessibility modelling and assessment, including Hansen-type and spatial availability measures.
+
+```r
+install.packages("pak")
+pak::pak("dias-bruno/CommuteCA")
+```
+
+[Documentation](https://dias-bruno.github.io/CommuteCA/){.btn .btn-outline-primary .btn-sm} [GitHub](https://github.com/dias-bruno/CommuteCA/){.btn .btn-outline-primary .btn-sm}
+:::
+
+::: {.pkg}
+## amazonULC
+
+Urban land cover classification maps for Brazilian Amazonian cities: Altamira, Cametá, Marabá, Santarém and part of the Belém Metropolitan Area, all in Pará. Classes include vegetation, water, exposed ground, roofing materials (ceramic, fibre cement, high-gloss) and paved and unpaved roads.
+
+```r
+# install.packages("devtools")
+devtools::install_github("dias-bruno/amazonULC")
+```
+
+[Documentation](https://dias-bruno.github.io/amazonULC/){.btn .btn-outline-primary .btn-sm} [GitHub](https://github.com/dias-bruno/amazonULC/){.btn .btn-outline-primary .btn-sm}
+:::
