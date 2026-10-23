@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "packages.html",
+    "href": "packages.html",
+    "title": "Packages",
+    "section": "",
+    "text": "Open R data packages I develop for transport and urban research. Each one has its own documentation site with examples."
+  },
+  {
+    "objectID": "packages.html#activeca",
+    "href": "packages.html#activeca",
+    "title": "Packages",
+    "section": "ActiveCA",
+    "text": "ActiveCA\nAnalysis-ready Canadian time-use data on walking and cycling. ActiveCA provides active travel episodes from seven cycles of the General Social Survey - Time Use (1986 - 2022), with origin and destination types, trip durations, province, urban/rural setting and episode weights, plus pre-estimated impedance functions for walking and cycling in Census Metropolitan Areas and Census Agglomerations.\n# install.packages(\"pak\")\npak::pak(\"dias-bruno/ActiveCA\")\nDocumentation GitHub Paper (EPB, 2025)"
+  },
+  {
+    "objectID": "packages.html#commuteca",
+    "href": "packages.html#commuteca",
+    "title": "Packages",
+    "section": "CommuteCA",
+    "text": "CommuteCA\nDatasets and standardized methods for job accessibility analysis with Canada’s 2021 Census of Population. CommuteCA includes calibrated impedance functions for walking, cycling, public transit and car (optionally by education level) at the Census Division, CMA/CA and provincial levels; census tract data on labour force by commuting mode and jobs; functions to look up impedance functions and compute impedance from travel times; and R Markdown templates for accessibility modelling and assessment, including Hansen-type and spatial availability measures.\ninstall.packages(\"pak\")\npak::pak(\"dias-bruno/CommuteCA\")\nDocumentation GitHub"
+  },
+  {
+    "objectID": "packages.html#amazonulc",
+    "href": "packages.html#amazonulc",
+    "title": "Packages",
+    "section": "amazonULC",
+    "text": "amazonULC\nUrban land cover classification maps for Brazilian Amazonian cities: Altamira, Cametá, Marabá, Santarém and part of the Belém Metropolitan Area, all in Pará. Classes include vegetation, water, exposed ground, roofing materials (ceramic, fibre cement, high-gloss) and paved and unpaved roads.\n# install.packages(\"devtools\")\ndevtools::install_github(\"dias-bruno/amazonULC\")\nDocumentation GitHub"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bruno Dias dos Santos",
+    "section": "",
+    "text": "I am a PhD candidate in (Transportation) Geography at McMaster University (Hamilton, ON, Canada), in the final year of my program, with my defence planned for summer 2027. My research uses spatial and statistical models to study transportation equity, particularly how access to jobs and opportunities is distributed across places and population groups in Canada, and to support more equitable transportation planning and policy. My educational background is in Environmental and Urban Engineering (UFABC, Brazil) and Remote Sensing (INPE, Brazil / McMaster University, Canada).\nI work with Canadian survey microdata - the Census and the General Social Survey, through the Statistics Canada Research Data Centre, and the National Survey on Transport Poverty, and I build open tools for this research, including the R packages ActiveCA, CommuteCA and amazonULC. Before coming to Canada, I used remote sensing and machine learning to map urban and socio-environmental patterns in Brazilian Amazonian cities and precarious settlements in São Paulo.\nOutside research, I teach spatial statistics and GIS at McMaster, facilitate the MePLUS science program for high school students from equity-deserving groups, and help run the Latin American Network at McMaster University.\n\n\n\n\nActive travel\n\n\nAccessibility\n\n\nTransport equity\n\n\nOpen Science\n\n\nReproducibility\n\n\nSpatial data science\n\n\nGIS & remote sensing\n\n\n\n\n\n\nPh.D. in Geography, McMaster University - 2023 - present\nM.Sc. in Remote Sensing, National Institute for Space Research (INPE), Brazil - 2023\nB.Sc. in Environmental and Urban Engineering, Federal University of ABC, Brazil - 2019"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Bruno Dias dos Santos",
+    "section": "",
+    "text": "I am a PhD candidate in (Transportation) Geography at McMaster University (Hamilton, ON, Canada), in the final year of my program, with my defence planned for summer 2027. My research uses spatial and statistical models to study transportation equity, particularly how access to jobs and opportunities is distributed across places and population groups in Canada, and to support more equitable transportation planning and policy. My educational background is in Environmental and Urban Engineering (UFABC, Brazil) and Remote Sensing (INPE, Brazil / McMaster University, Canada).\nI work with Canadian survey microdata - the Census and the General Social Survey, through the Statistics Canada Research Data Centre, and the National Survey on Transport Poverty, and I build open tools for this research, including the R packages ActiveCA, CommuteCA and amazonULC. Before coming to Canada, I used remote sensing and machine learning to map urban and socio-environmental patterns in Brazilian Amazonian cities and precarious settlements in São Paulo.\nOutside research, I teach spatial statistics and GIS at McMaster, facilitate the MePLUS science program for high school students from equity-deserving groups, and help run the Latin American Network at McMaster University.\n\n\n\n\nActive travel\n\n\nAccessibility\n\n\nTransport equity\n\n\nOpen Science\n\n\nReproducibility\n\n\nSpatial data science\n\n\nGIS & remote sensing\n\n\n\n\n\n\nPh.D. in Geography, McMaster University - 2023 - present\nM.Sc. in Remote Sensing, National Institute for Space Research (INPE), Brazil - 2023\nB.Sc. in Environmental and Urban Engineering, Federal University of ABC, Brazil - 2019"
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -47,34 +89,6 @@
     "title": "Teaching",
     "section": "Mentoring",
     "text": "Mentoring\n\n2026 - 2027 Organizer, LANMU Mentorship Program - Latin American Network at McMaster University\nOrganizing a program of more than 30 mentor-mentee pairs of undergraduate and graduate students, postdocs, faculty and staff.\n\n\n2024 - 2026 Mentor, Latin American and Latinx Student Mentorship Program - McMaster University"
-  },
-  {
-    "objectID": "packages.html",
-    "href": "packages.html",
-    "title": "Packages",
-    "section": "",
-    "text": "Open R data packages I develop for transport and urban research. Each one has its own documentation site with examples."
-  },
-  {
-    "objectID": "packages.html#activeca",
-    "href": "packages.html#activeca",
-    "title": "Packages",
-    "section": "ActiveCA",
-    "text": "ActiveCA\nAnalysis-ready Canadian time-use data on walking and cycling. ActiveCA provides active travel episodes from seven cycles of the General Social Survey - Time Use (1986 - 2022), with origin and destination types, trip durations, province, urban/rural setting and episode weights, plus pre-estimated impedance functions for walking and cycling in Census Metropolitan Areas and Census Agglomerations.\n# install.packages(\"pak\")\npak::pak(\"dias-bruno/ActiveCA\")\nDocumentation GitHub Paper (EPB, 2025)"
-  },
-  {
-    "objectID": "packages.html#commuteca",
-    "href": "packages.html#commuteca",
-    "title": "Packages",
-    "section": "CommuteCA",
-    "text": "CommuteCA\nDatasets and standardized methods for job accessibility analysis with Canada’s 2021 Census of Population. CommuteCA includes calibrated impedance functions for walking, cycling, public transit and car (optionally by education level) at the Census Division, CMA/CA and provincial levels; census tract data on labour force by commuting mode and jobs; functions to look up impedance functions and compute impedance from travel times; and R Markdown templates for accessibility modelling and assessment, including Hansen-type and spatial availability measures.\ninstall.packages(\"pak\")\npak::pak(\"dias-bruno/CommuteCA\")\nDocumentation GitHub"
-  },
-  {
-    "objectID": "packages.html#amazonulc",
-    "href": "packages.html#amazonulc",
-    "title": "Packages",
-    "section": "amazonULC",
-    "text": "amazonULC\nUrban land cover classification maps for Brazilian Amazonian cities: Altamira, Cametá, Marabá, Santarém and part of the Belém Metropolitan Area, all in Pará. Classes include vegetation, water, exposed ground, roofing materials (ceramic, fibre cement, high-gloss) and paved and unpaved roads.\n# install.packages(\"devtools\")\ndevtools::install_github(\"dias-bruno/amazonULC\")\nDocumentation GitHub"
   },
   {
     "objectID": "cv.html",
@@ -145,20 +159,6 @@
     "title": "Curriculum Vitae",
     "section": "Additional training",
     "text": "Additional training\n\n2025 - Merge Program, McMaster English Language Development Office (200 h)\n2023 - Python for SysAdmin Training, 4Linux (100 h)\n2020 - Python and Spark for Big Data and Machine Learning, 4Linux (100 h)\n2020 - Land Cover Change Classification using GEOBIA, INPE / SELPER (40 h)\n2020 - Spatial Data Science and Applications, Yonsei University (20 h)\n2016 - Orthorectification of aerial photographs, Federal University of ABC"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bruno Dias dos Santos",
-    "section": "",
-    "text": "I am a PhD candidate in (Transportation) Geography at McMaster University (Hamilton, ON, Canada), in the final year of my program, with my defence planned for summer 2027. My research uses spatial and statistical models to study transportation equity, particularly how access to jobs and opportunities is distributed across places and population groups in Canada, and to support more equitable transportation planning and policy. My educational background is in Environmental and Urban Engineering (UFABC, Brazil) and Remote Sensing (INPE, Brazil / McMaster University, Canada).\nI work with Canadian survey microdata - the Census and the General Social Survey, through the Statistics Canada Research Data Centre, and the National Survey on Transport Poverty, and I build open tools for this research, including the R packages ActiveCA, CommuteCA and amazonULC. Before coming to Canada, I used remote sensing and machine learning to map urban and socio-environmental patterns in Brazilian Amazonian cities and precarious settlements in São Paulo.\nOutside research, I teach spatial statistics and GIS at McMaster, facilitate the MePLUS science program for high school students from equity-deserving groups, and help run the Latin American Network at McMaster University.\n\n\n\n\nActive travel\n\n\nAccessibility\n\n\nTransport equity\n\n\nOpen Science\n\n\nReproducibility\n\n\nSpatial data science\n\n\nGIS & remote sensing\n\n\n\n\n\n\nPh.D. in Geography, McMaster University - 2023 - present\nM.Sc. in Remote Sensing, National Institute for Space Research (INPE), Brazil - 2023\nB.Sc. in Environmental and Urban Engineering, Federal University of ABC, Brazil - 2019"
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Bruno Dias dos Santos",
-    "section": "",
-    "text": "I am a PhD candidate in (Transportation) Geography at McMaster University (Hamilton, ON, Canada), in the final year of my program, with my defence planned for summer 2027. My research uses spatial and statistical models to study transportation equity, particularly how access to jobs and opportunities is distributed across places and population groups in Canada, and to support more equitable transportation planning and policy. My educational background is in Environmental and Urban Engineering (UFABC, Brazil) and Remote Sensing (INPE, Brazil / McMaster University, Canada).\nI work with Canadian survey microdata - the Census and the General Social Survey, through the Statistics Canada Research Data Centre, and the National Survey on Transport Poverty, and I build open tools for this research, including the R packages ActiveCA, CommuteCA and amazonULC. Before coming to Canada, I used remote sensing and machine learning to map urban and socio-environmental patterns in Brazilian Amazonian cities and precarious settlements in São Paulo.\nOutside research, I teach spatial statistics and GIS at McMaster, facilitate the MePLUS science program for high school students from equity-deserving groups, and help run the Latin American Network at McMaster University.\n\n\n\n\nActive travel\n\n\nAccessibility\n\n\nTransport equity\n\n\nOpen Science\n\n\nReproducibility\n\n\nSpatial data science\n\n\nGIS & remote sensing\n\n\n\n\n\n\nPh.D. in Geography, McMaster University - 2023 - present\nM.Sc. in Remote Sensing, National Institute for Space Research (INPE), Brazil - 2023\nB.Sc. in Environmental and Urban Engineering, Federal University of ABC, Brazil - 2019"
   },
   {
     "objectID": "research.html",

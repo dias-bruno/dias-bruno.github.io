@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dias-bruno.github.io/teaching.html</loc>
-    <lastmod>2026-10-23T19:51:10.703Z</lastmod>
-  </url>
-  <url>
     <loc>https://dias-bruno.github.io/packages.html</loc>
-    <lastmod>2026-10-23T19:51:09.861Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dias-bruno.github.io/cv.html</loc>
-    <lastmod>2026-10-23T19:51:08.887Z</lastmod>
+    <lastmod>2026-10-23T20:06:26.694Z</lastmod>
   </url>
   <url>
     <loc>https://dias-bruno.github.io/index.html</loc>
-    <lastmod>2026-10-23T19:51:09.223Z</lastmod>
+    <lastmod>2026-10-23T20:06:26.694Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dias-bruno.github.io/teaching.html</loc>
+    <lastmod>2026-10-23T20:06:26.694Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dias-bruno.github.io/cv.html</loc>
+    <lastmod>2026-10-23T20:06:26.688Z</lastmod>
   </url>
   <url>
     <loc>https://dias-bruno.github.io/research.html</loc>
-    <lastmod>2026-10-23T19:51:10.387Z</lastmod>
+    <lastmod>2026-10-23T20:06:26.694Z</lastmod>
   </url>
 </urlset>
