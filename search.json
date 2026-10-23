@@ -1,0 +1,226 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Jan - Apr 2026 Sessional Instructor - Applied Spatial Statistics (ENVSOCTY 4GA3)\nMcMaster University - Undergraduate, 48 students"
+  },
+  {
+    "objectID": "teaching.html#courses-taught",
+    "href": "teaching.html#courses-taught",
+    "title": "Teaching",
+    "section": "",
+    "text": "Jan - Apr 2026 Sessional Instructor - Applied Spatial Statistics (ENVSOCTY 4GA3)\nMcMaster University - Undergraduate, 48 students"
+  },
+  {
+    "objectID": "teaching.html#guest-lectures",
+    "href": "teaching.html#guest-lectures",
+    "title": "Teaching",
+    "section": "Guest lectures",
+    "text": "Guest lectures\n\nSep 2023 & Sep 2024 Transport Policy - Policy evaluation\nMcMaster University - Undergraduate, 40 students\n\n\nAug 2023 Digital Image Processing - Geographic Object-Based Image Analysis (GEOBIA)\nNational Institute for Space Research (INPE) - Postgraduate, 40 students\n\n\nNov 2015 Territorial Planning and Management - Geoprocessing workshop using QGIS\nFederal University of ABC - Postgraduate, 15 students\n\n\nDec 2014 Support for local governments in identifying areas suitable for housing production under the Minha Casa, Minha Vida Program\nNational Housing Secretariat, Ministry of Cities (Brazil) - Graduate, remote"
+  },
+  {
+    "objectID": "teaching.html#course-development",
+    "href": "teaching.html#course-development",
+    "title": "Teaching",
+    "section": "Course development",
+    "text": "Course development\n\nJun 2024 Exploratory Data Analysis (EDA) with R - Content creator\nFederal University of ABC - Graduate, 30 students\nI developed the teaching material for the Brazilian version of the course and took part in the classes as a teaching assistant. Course website"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "Teaching assistant",
+    "text": "Teaching assistant\n\n2023 - present McMaster University\nRegional Geography of Canada (ENVSOCTY 2OC3) - Regional Geography of the United States (ENVSOCTY 2RU3) - Geographical Information Science (ENVSOCTY 2GI3)\n\n\nFeb 2022 - Jan 2023 Geoprocessing for Territorial Planning in the Greater ABC Region - Federal University of ABC\nA course for technicians and managers of the Municipal Alliance of Grande ABC (Environment and Urban Planning working groups) and Ribeirão Pires City Hall.\n\n\n2018 - 2022 Federal University of ABC - Undergraduate teaching assistant\nCartography and Geoprocessing Applied to Territorial Planning (2019, 2022) - Remote Sensing (2016, 2018)"
+  },
+  {
+    "objectID": "teaching.html#student-supervision",
+    "href": "teaching.html#student-supervision",
+    "title": "Teaching",
+    "section": "Student supervision",
+    "text": "Student supervision\n\nSep 2022 - Sep 2023 Luisa Akemi Bernardino Kanzato - Co-supervisor, Federal University of ABC\nUndergraduate research project identifying and classifying the spatial distribution of urban vegetation in Santarém, Brazilian Amazon, using remote sensing.\n\n\nSep 2022 - Sep 2023 Michelle Neves de Azevedo - Co-supervisor, Federal University of ABC\nUndergraduate research project on the temporal analysis of satellite imagery of Santarém (2002–2021), mapping built-up areas."
+  },
+  {
+    "objectID": "teaching.html#mentoring",
+    "href": "teaching.html#mentoring",
+    "title": "Teaching",
+    "section": "Mentoring",
+    "text": "Mentoring\n\n2026 - 2027 Organizer, LANMU Mentorship Program - Latin American Network at McMaster University\nOrganizing a program of more than 30 mentor-mentee pairs of undergraduate and graduate students, postdocs, faculty and staff.\n\n\n2024 - 2026 Mentor, Latin American and Latinx Student Mentorship Program - McMaster University"
+  },
+  {
+    "objectID": "packages.html",
+    "href": "packages.html",
+    "title": "Packages",
+    "section": "",
+    "text": "Open R data packages I develop for transport and urban research. Each one has its own documentation site with examples."
+  },
+  {
+    "objectID": "packages.html#activeca",
+    "href": "packages.html#activeca",
+    "title": "Packages",
+    "section": "ActiveCA",
+    "text": "ActiveCA\nAnalysis-ready Canadian time-use data on walking and cycling. ActiveCA provides active travel episodes from seven cycles of the General Social Survey - Time Use (1986 - 2022), with origin and destination types, trip durations, province, urban/rural setting and episode weights, plus pre-estimated impedance functions for walking and cycling in Census Metropolitan Areas and Census Agglomerations.\n# install.packages(\"pak\")\npak::pak(\"dias-bruno/ActiveCA\")\nDocumentation GitHub Paper (EPB, 2025)"
+  },
+  {
+    "objectID": "packages.html#commuteca",
+    "href": "packages.html#commuteca",
+    "title": "Packages",
+    "section": "CommuteCA",
+    "text": "CommuteCA\nDatasets and standardized methods for job accessibility analysis with Canada’s 2021 Census of Population. CommuteCA includes calibrated impedance functions for walking, cycling, public transit and car (optionally by education level) at the Census Division, CMA/CA and provincial levels; census tract data on labour force by commuting mode and jobs; functions to look up impedance functions and compute impedance from travel times; and R Markdown templates for accessibility modelling and assessment, including Hansen-type and spatial availability measures.\ninstall.packages(\"pak\")\npak::pak(\"dias-bruno/CommuteCA\")\nDocumentation GitHub"
+  },
+  {
+    "objectID": "packages.html#amazonulc",
+    "href": "packages.html#amazonulc",
+    "title": "Packages",
+    "section": "amazonULC",
+    "text": "amazonULC\nUrban land cover classification maps for Brazilian Amazonian cities: Altamira, Cametá, Marabá, Santarém and part of the Belém Metropolitan Area, all in Pará. Classes include vegetation, water, exposed ground, roofing materials (ceramic, fibre cement, high-gloss) and paved and unpaved roads.\n# install.packages(\"devtools\")\ndevtools::install_github(\"dias-bruno/amazonULC\")\nDocumentation GitHub"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "2023 - present Ph.D. in Geography - McMaster University, Hamilton, ON, Canada\nDissertation: Developing standards for equity in transportation planning and policy\nSupervisor: Antonio Páez - Expected defence: September 2027\nCoursework: Discrete Choice Analysis; Applied Data Analysis; Reproducible Research Workflow; Transport Policy\nFunded by the Mobilizing Justice Partnership (SSHRC)\n\n\nFeb - Oct 2024 Graduate Residency in Digital Scholarship - Sherman Centre for Digital Scholarship, McMaster University\n\n\n2021 - 2023 M.Sc. in Remote Sensing - National Institute for Space Research (INPE), São José dos Campos, Brazil, with a research stay at McMaster University\nThesis: Identifying urban and socio-environmental patterns in Amazon cities\nSupervisors: Silvana Amaral (INPE), Carolina M. D. de Pinho (UFABC) and Antonio Páez (McMaster)\nCoursework: Digital Image Processing; Detection and analysis of Land Use and Land Cover change patterns; Spatial Data Analysis; Additional coursework (Applied Computing): Artificial Intelligence; Geographical Databases\nFunded by CNPq (Brazil) and Global Affairs Canada\n\n\n2013 - 2019 B.Sc. in Environmental and Urban Engineering - Federal University of ABC (UFABC), Brazil\nThesis: Identification of precarious settlements in the Greater ABC region based on remote sensing data\nSupervisor: Carolina M. D. de Pinho\n\n\n2013 - 2017 B.Sc. in Science and Technology - Federal University of ABC (UFABC), Brazil"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "2023 - present Ph.D. in Geography - McMaster University, Hamilton, ON, Canada\nDissertation: Developing standards for equity in transportation planning and policy\nSupervisor: Antonio Páez - Expected defence: September 2027\nCoursework: Discrete Choice Analysis; Applied Data Analysis; Reproducible Research Workflow; Transport Policy\nFunded by the Mobilizing Justice Partnership (SSHRC)\n\n\nFeb - Oct 2024 Graduate Residency in Digital Scholarship - Sherman Centre for Digital Scholarship, McMaster University\n\n\n2021 - 2023 M.Sc. in Remote Sensing - National Institute for Space Research (INPE), São José dos Campos, Brazil, with a research stay at McMaster University\nThesis: Identifying urban and socio-environmental patterns in Amazon cities\nSupervisors: Silvana Amaral (INPE), Carolina M. D. de Pinho (UFABC) and Antonio Páez (McMaster)\nCoursework: Digital Image Processing; Detection and analysis of Land Use and Land Cover change patterns; Spatial Data Analysis; Additional coursework (Applied Computing): Artificial Intelligence; Geographical Databases\nFunded by CNPq (Brazil) and Global Affairs Canada\n\n\n2013 - 2019 B.Sc. in Environmental and Urban Engineering - Federal University of ABC (UFABC), Brazil\nThesis: Identification of precarious settlements in the Greater ABC region based on remote sensing data\nSupervisor: Carolina M. D. de Pinho\n\n\n2013 - 2017 B.Sc. in Science and Technology - Federal University of ABC (UFABC), Brazil"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\n\n2023 - present PhD Researcher, Data-Driven Equity Standards - Mobilizing Justice Partnership, McMaster University\n\n\n2024 - present MePLUS Program Facilitator - McMaster University\nMePLUS (McMaster Equitable Pathways to Learning University Sciences) is a free, 10-month program of science workshops, mentorship and skill building for Black, Indigenous and Latinx high school students in Hamilton. I develop and lead workshops and organize the mentorship program. Program website\n\n\n2023 - present Teaching Assistant - School of Earth, Environment & Society, McMaster University\n\n\nMar - Sep 2023 GIS Developer - DIGIMAP\nDesigned and implemented web-based mapping platforms for municipalities and private organizations.\n\n\n2021 - 2023 Master’s Researcher - Earth Observation and Geoinformatics Division, INPE, Brazil\n\n\n2018 - 2021 GIS and Remote Sensing Supervisor (Analyst until 2019) - Audsat, Brazil\nManaged a team of six employees and multiple temporary workers in geospatial analysis projects.\n\n\n2017 - 2018 Environmental Engineering Intern - Cabot Corporation, Brazil\n\n\n2015 - 2017 Undergraduate Researcher - Mapping team, Evictions Observatory (Observatório de Remoções), UFABC\n\n\n2015 Environmental Engineering Intern - City of São Paulo\nGeoprocessing, municipal environmental licensing and related technical support."
+  },
+  {
+    "objectID": "cv.html#honours-and-awards",
+    "href": "cv.html#honours-and-awards",
+    "title": "Curriculum Vitae",
+    "section": "Honours and awards",
+    "text": "Honours and awards\n\n2025 Emerging Scholars Award - Canadian Research Data Centre Network (CRDCN) - CAD $1,200\n\n\n2024 SEES Equity, Diversity, Inclusion & Indigeneity Graduate Student Award - McMaster University - CAD $1,000\n\n\n2022 Emerging Leaders in the Americas Program (ELAP) - Global Affairs Canada - CAD $11,100"
+  },
+  {
+    "objectID": "cv.html#research-funding",
+    "href": "cv.html#research-funding",
+    "title": "Curriculum Vitae",
+    "section": "Research funding",
+    "text": "Research funding\n\n2023 - 2027 PhD Scholarship - Mobilizing Justice Partnership (SSHRC)\n\n\n2021 - 2023 Master’s Scholarship - Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), Brazil - CAD $7,300\n\n\n2015 - 2017 Scientific Initiation Scholarship - Fundação de Apoio à Universidade de São Paulo - CAD $6,300"
+  },
+  {
+    "objectID": "cv.html#methods-and-technical-skills",
+    "href": "cv.html#methods-and-technical-skills",
+    "title": "Curriculum Vitae",
+    "section": "Methods and technical skills",
+    "text": "Methods and technical skills\n\nStatistical modelling: linear, logit, multinomial and ordinal regression models\nMachine learning: supervised and unsupervised classification\nSurvey microdata: 2021 Census of Population, General Social Survey - Time Use (1986-2021) and National Survey on Transport Poverty, through the Statistics Canada Research Data Centre\nProgramming and reproducible research: R (package development: AmazonULC, ActiveCA, CommuteCA), Python, literate programming\nGIS and remote sensing: QGIS; geographic object-based image analysis (GEOBIA); segmentation"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "Curriculum Vitae",
+    "section": "Languages",
+    "text": "Languages\nPortuguese (native) - English (fluent) - Spanish (fluent reading and understanding; functional speaking and writing)"
+  },
+  {
+    "objectID": "cv.html#service",
+    "href": "cv.html#service",
+    "title": "Curriculum Vitae",
+    "section": "Service",
+    "text": "Service\n\nJournal reviewing\nEnvironment and Planning B: Urban Analytics and City Science (2026) - Transportation (2026) - Revista do Departamento de Geografia (USP) (2026) - Urban Planning (2026) - Journal of Transport Geography (2024) - Journal of Geographical Systems (2023)\n\n\nCommittees\n\n2023 - 2024 Committee Member, SEES Grad Buddies Committee - McMaster University\nInternational representative: answered incoming students’ questions and matched new graduate students with undergraduate “buddies”.\n\n\n2023 - 2024 EDI Representative, SEES Graduate Student Collective - McMaster University\n\n\n\nEvent organization\n\nApr 2023 Conference Monitor, XX Brazilian Symposium on Remote Sensing (SBSR) - Florianópolis, Brazil\nTechnical support for invited speakers, registration and organization of oral presentations at Latin America’s largest GIS and remote sensing symposium.\n\n\nNov 2016 Organizer, National Seminar “Evictions, Resistance and Interventions” - Brazil\nShared the results of the Evictions Observatory; 19 papers presented by researchers from Brazilian universities."
+  },
+  {
+    "objectID": "cv.html#outreach-and-community",
+    "href": "cv.html#outreach-and-community",
+    "title": "Curriculum Vitae",
+    "section": "Outreach and community",
+    "text": "Outreach and community\n\n2023 - present Program Facilitator, Latin American Network at McMaster University (LANMU)\nProject assistant; Organizer of the LANMU’s mentorship program.\n\n\n2016 - 2017 Community Outreach Facilitator - Traditional Caiçara Community of Juréia, SP, Brazil\nTaught geoprocessing fundamentals so residents could document the traditional use of their territory in the process to secure land titles.\n\n\n2015 - 2016 Affirmative Action Monitor - UFABC Diversifica\n\n\n\n2014 - 2019 Geography Teacher - Cursinho Comunitário Bonsucesso\nTaught geography at a community course preparing public-school students for university entrance; organized field trips to museums and the city centre.\n\n\n2014 - 2015 Community Outreach Facilitator - Quilombola Community of Poça, SP, Brazil\nTaught fundamentals of cartography and built a topographical model of the territory with residents, supporting their land-titling process."
+  },
+  {
+    "objectID": "cv.html#additional-training",
+    "href": "cv.html#additional-training",
+    "title": "Curriculum Vitae",
+    "section": "Additional training",
+    "text": "Additional training\n\n2025 - Merge Program, McMaster English Language Development Office (200 h)\n2023 - Python for SysAdmin Training, 4Linux (100 h)\n2020 - Python and Spark for Big Data and Machine Learning, 4Linux (100 h)\n2020 - Land Cover Change Classification using GEOBIA, INPE / SELPER (40 h)\n2020 - Spatial Data Science and Applications, Yonsei University (20 h)\n2016 - Orthorectification of aerial photographs, Federal University of ABC"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bruno Dias dos Santos",
+    "section": "",
+    "text": "I am a PhD candidate in (Transportation) Geography at McMaster University (Hamilton, ON, Canada), in the final year of my program, with my defence planned for summer 2027. My research uses spatial and statistical models to study transportation equity, particularly how access to jobs and opportunities is distributed across places and population groups in Canada, and to support more equitable transportation planning and policy. My educational background is in Environmental and Urban Engineering (UFABC, Brazil) and Remote Sensing (INPE, Brazil / McMaster University, Canada).\nI work with Canadian survey microdata - the Census and the General Social Survey, through the Statistics Canada Research Data Centre, and the National Survey on Transport Poverty, and I build open tools for this research, including the R packages ActiveCA, CommuteCA and amazonULC. Before coming to Canada, I used remote sensing and machine learning to map urban and socio-environmental patterns in Brazilian Amazonian cities and precarious settlements in São Paulo.\nOutside research, I teach spatial statistics and GIS at McMaster, facilitate the MePLUS science program for high school students from equity-deserving groups, and help run the Latin American Network at McMaster University.\n\n\n\n\nActive travel\n\n\nAccessibility\n\n\nTransport equity\n\n\nOpen Science\n\n\nReproducibility\n\n\nSpatial data science\n\n\nGIS & remote sensing\n\n\n\n\n\n\nPh.D. in Geography, McMaster University - 2023 - present\nM.Sc. in Remote Sensing, National Institute for Space Research (INPE), Brazil - 2023\nB.Sc. in Environmental and Urban Engineering, Federal University of ABC, Brazil - 2019"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Bruno Dias dos Santos",
+    "section": "",
+    "text": "I am a PhD candidate in (Transportation) Geography at McMaster University (Hamilton, ON, Canada), in the final year of my program, with my defence planned for summer 2027. My research uses spatial and statistical models to study transportation equity, particularly how access to jobs and opportunities is distributed across places and population groups in Canada, and to support more equitable transportation planning and policy. My educational background is in Environmental and Urban Engineering (UFABC, Brazil) and Remote Sensing (INPE, Brazil / McMaster University, Canada).\nI work with Canadian survey microdata - the Census and the General Social Survey, through the Statistics Canada Research Data Centre, and the National Survey on Transport Poverty, and I build open tools for this research, including the R packages ActiveCA, CommuteCA and amazonULC. Before coming to Canada, I used remote sensing and machine learning to map urban and socio-environmental patterns in Brazilian Amazonian cities and precarious settlements in São Paulo.\nOutside research, I teach spatial statistics and GIS at McMaster, facilitate the MePLUS science program for high school students from equity-deserving groups, and help run the Latin American Network at McMaster University.\n\n\n\n\nActive travel\n\n\nAccessibility\n\n\nTransport equity\n\n\nOpen Science\n\n\nReproducibility\n\n\nSpatial data science\n\n\nGIS & remote sensing\n\n\n\n\n\n\nPh.D. in Geography, McMaster University - 2023 - present\nM.Sc. in Remote Sensing, National Institute for Space Research (INPE), Brazil - 2023\nB.Sc. in Environmental and Urban Engineering, Federal University of ABC, Brazil - 2019"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My doctoral research, Developing standards for equity in transportation planning and policy, combines accessibility analysis, survey microdata and statistical modelling to ask how much access to opportunities is considered sufficient, and for whom. Earlier, my work used remote sensing and machine learning to map urban and socio-environmental patterns in Brazilian Amazonian cities and precarious settlements in São Paulo, Brazil."
+  },
+  {
+    "objectID": "research.html#peer-reviewed-journal-articles",
+    "href": "research.html#peer-reviewed-journal-articles",
+    "title": "Research",
+    "section": "Peer-reviewed journal articles",
+    "text": "Peer-reviewed journal articles\n\nDos Santos, B. D., Hanson, T. R., & Páez, A. (2026). Dignity in transportation: A scoping review and theoretical framework. Transport Reviews, 1-23. DOI\n\n\nDos Santos, B. D., Moghadasi, M., & Páez, A. (2026). A 30-year analysis of active travel behaviour in Canada. Journal of Transport Geography, 131, 104561. DOI\n\n\nDos Santos, B. D., Moghadasi, M., & Páez, A. (2025). ActiveCA: Time use data from the General Social Survey of Canada to study active travel. Environment and Planning B: Urban Analytics and City Science, 52(8), 2037-2047. DOI · Package\n\n\nDos Santos, B. D., De Pinho, C. M. D., Páez, A., & Amaral, S. (2023). Identifying urban and socio-environmental patterns of Brazilian Amazonian cities by remote sensing and machine learning. Remote Sensing, 15(12), 3102. DOI\n\n\nDos Santos, B. D., Kampel, M., Pinho, C. M. D., Ribeiro, R. M., Páez, A., & Amaral, S. (2023). State-of-the-art and framework for identifying urban patterns by remote sensing data. Revista Brasileira de Cartografia, 75, 1-20. DOI\n\n\nDos Santos, B. D., De Pinho, C. M. D., Oliveira, G. E. T., Korting, T. S., Escada, M. I. S., & Amaral, S. (2022). Identifying precarious settlements and urban fabric typologies based on GEOBIA and data mining in Brazilian Amazon cities. Remote Sensing, 14(3), 704. DOI\n\n\nSouza, D. P. D., Da Silva, W. R. S., Cervinski, G. C., Dos Santos, B. D., Comarú, F. D. A., & Trigoso, F. B. M. (2018). Desenvolvimento urbano e saúde pública: impactos da construção da UHE de Belo Monte [Urban development and public health: impacts of the construction of the Belo Monte Hydroelectric Complex]. Desenvolvimento e Meio Ambiente, 46, 154-173."
+  },
+  {
+    "objectID": "research.html#papers-under-review",
+    "href": "research.html#papers-under-review",
+    "title": "Research",
+    "section": "Papers under review",
+    "text": "Papers under review\n\nDos Santos, B. D., Soukhov, A., & Páez, A. (2026). Exploring equity standards for transport policy: A case study of objective accessibility, perceived accessibility, and employment outcomes in the Greater Toronto and Hamilton Area, Canada. Transportation Research Part A: Policy and Practice. Revisions requested Code\n\n\nDos Santos, B. D., & Páez, A. (2026). CommuteCA: An R package with datasets and standardized methods for job accessibility analysis using Canadian Census microdata. Transportation. Submitted Package\n\n\nSbrocchi, A., Dos Santos, B. D., Ravensbergen, L., & Páez, A. (2023). Policy sabotage? Developing a tool using the King Street East transit-only lane in Hamilton, Ontario. Transport Policy. Submitted"
+  },
+  {
+    "objectID": "research.html#full-papers-in-conference-proceedings",
+    "href": "research.html#full-papers-in-conference-proceedings",
+    "title": "Research",
+    "section": "Full papers in conference proceedings",
+    "text": "Full papers in conference proceedings\n\nDos Santos, B. D., & Páez, A. (2025). Comparing job accessibility in diverse spatial patterns in the Greater Golden Horseshoe area, Ontario, Canada. In Anais do XXI Simpósio Brasileiro de Sensoriamento Remoto (pp. 1-8). INPE.\n\n\nDos Santos, B. D., Amaral, S., Páez, A., & Pinho, C. M. D. (2023). A geographical database for evictions and threats of involuntary urban evictions patterns. In Anais do XX Simpósio Brasileiro de Sensoriamento Remoto (pp. 1860-1863). INPE.\n\n\nDos Santos, B. D., Amaral, S., Pinho, C. M. D., & Páez, A. (2023). Adapting socioeconomic indicators and identifying intra-urban typologies in Santarém - PA. In Anais do XX Simpósio Brasileiro de Sensoriamento Remoto (pp. 1935-1938). INPE.\n\n\nDos Santos, B. D., Azevedo, M. N., Kanzato, L. A. B., Pinho, C. M. D., Páez, A., & Amaral, S. (2023). CBERS-4A imagery for mapping urban land cover in the Amazon. In Anais do XX Simpósio Brasileiro de Sensoriamento Remoto (pp. 2163-2166). INPE.\n\n\nKanzato, L. A. B., Dos Santos, B. D., & Pinho, C. M. D. (2023). Extraction of urban greenery in Santarém - PA based on analysis of CBERS-4A images. In Proceedings of the XXIV Brazilian Symposium on Geoinformatics (GEOINFO 2023) (pp. 501-506). INPE.\n\n\nDos Santos, B. D., Amaral, S., & De Pinho, C. M. D. (2021). Elaboração de um Índice de Precariedade para Municípios Ribeirinhos Amazônicos [Development of a precarity index for Amazonian riverside municipalities]. In Anais do VI Seminário Nacional População, Espaço e Ambiente (pp. 1-5). ABEP.\n\n\nMedeiros, T., Dos Santos, B. D., Oliveira, G., Korting, T., & Queiroz, G. (2021). Utilizando o padrão SpatioTemporal Asset Catalog para visualização de dados [Using the SpatioTemporal Asset Catalog standard for data visualization]. In Proceedings of the XXII Brazilian Symposium on Geoinformatics (GEOINFO 2021) (pp. 264-269). INPE.\n\n\nDos Santos, B. D., Pinho, C. M., & Barbosa, T. (2019). Identificação de assentamentos precários no Grande ABC a partir de dados de sensoriamento remoto [Identification of precarious settlements in the Greater ABC region based on remote sensing data]. In Anais do XIX Simpósio Brasileiro de Sensoriamento Remoto (pp. 3224-3227). INPE.\n\n\nDos Santos, B. D., & Pinho, C. M. (2017). Análise de imagens de alta resolução espacial baseada em objetos para classificação de assentamentos precários [Object-based analysis of high spatial resolution images for classifying precarious settlements]. In Anais do XVIII Simpósio Brasileiro de Sensoriamento Remoto (pp. 6226-6232). INPE.\n\n\nCosta, C. O., França, H., Carneiro, A. P., Carneiro, H. P., Fortes, J. M. S., Prado, M. V. S., Prado, P. S., Lopes, A. S., Duarte, D., Dos Santos, B. D., Adams, C., & Tambosi, L. R. (2017). Spatial dynamics of Caiçara itinerant agriculture (1962-2011) in Prelado State Park. In Anais do VIII Encontro Nacional da ANPPAS (pp. 1-13). ANPPAS."
+  },
+  {
+    "objectID": "research.html#book-chapters",
+    "href": "research.html#book-chapters",
+    "title": "Research",
+    "section": "Book chapters",
+    "text": "Book chapters\n\nSantos, B. D., & Negri, G. (2017). Experiência de implementação de uma plataforma de mapeamento [Experience of implementing a mapping platform]. In R. Rolnik, K. Leitão, F. Comaru, & R. D. Lins (Eds.), Observatório de remoções: 2015-2017 (Vol. 1, pp. 165-180). FAUUSP.\n\n\nBedeschi, L., Paterniani, S., Rolnik, R., Lins, R., Negri, G., & Santos, B. D. (2017). Mapeamento colaborativo de remoções e ameaças de remoções em São Paulo, Santo André, São Bernardo do Campo, Diadema e Mauá [Collaborative mapping of evictions and threats of evictions]. In R. Rolnik, K. Leitão, F. Comaru, & R. D. Lins (Eds.), Observatório de remoções: 2015-2017 (Vol. 1, pp. 9-36). FAUUSP.\n\n\nComaru, F. A., Pinho, C. M., Nogueira, F., Moretti, R. S., Santos, B. D., Vigliar, C., Corazza, D., Kagan, F., Lourenco, I. C., Varallo, L., Bedeschi, L., Moreira, P., Barbosa, T., & Gonsales, T. A. (2017). Precisamos falar sobre moradia nas áreas da Ecovias/Imigrantes: Resistência popular e alternativas técnicas [We must talk about housing in the Ecovias/Imigrantes areas: Popular resistance and technical alternatives]. In Observatório de remoções: 2015-2017 (Vol. 1, pp. 123-152). FAUUSP.\n\n\nCorazza, D., Gonsales, T. A., Vigliar, C., Moretti, R. S., Pinho, C. M., Kagan, F., Moreira, P., Lourenco, I. C., Barbosa, T., Santos, B. D., & Comaru, F. A. (2016). Entre a informalidade e o direito de morar: formas de resistência na cidade de São Paulo e no ABC [Between informality and the right to live: forms of resistance in the city of São Paulo and the ABC]. In V. Marx & M. A. Costa (Eds.), Participação, conflitos e intervenções urbanas: contribuições à Habitat III (Vol. 1, pp. 179-198). UFRGS."
+  },
+  {
+    "objectID": "research.html#theses",
+    "href": "research.html#theses",
+    "title": "Research",
+    "section": "Theses",
+    "text": "Theses\n\nDos Santos, B. D. (2023). Identifying urban and socio-environmental patterns in Amazon cities. Master’s thesis, National Institute for Space Research (INPE), Brazil.\n\n\nDos Santos, B. D. (2019). Identification of precarious settlements in the Greater ABC region based on remote sensing data. Bachelor’s thesis, Federal University of ABC (UFABC), Brazil."
+  },
+  {
+    "objectID": "research.html#software-and-data",
+    "href": "research.html#software-and-data",
+    "title": "Research",
+    "section": "Software and data",
+    "text": "Software and data\nI develop open R data packages for transport and urban research - see Packages for ActiveCA, CommuteCA and amazonULC."
+  },
+  {
+    "objectID": "research.html#presentations",
+    "href": "research.html#presentations",
+    "title": "Research",
+    "section": "Presentations",
+    "text": "Presentations\n\nDos Santos, B. D., & Páez, A. (2026). The effect of job accessibility on employment outcomes: Evidence from the Canadian National Survey on Transport Poverty. NECTAR Conference 2026, Munich, Germany.\n\n\nDos Santos, B. D., & Páez, A. (2026). ActiveCA: An open data product for active travel research in Canada. CAG/CARTO Annual Meeting 2026, Victoria, BC, Canada.\n\n\nDos Santos, B. D., & Páez, A. (2025). Comparing job accessibility in diverse spatial patterns in the Greater Golden Horseshoe area, Ontario, Canada. XXI Brazilian Symposium on Remote Sensing (SBSR), Salvador, Brazil.\n\n\nDos Santos, B. D., Amaral, S., & Pinho, C. M. D. (2021). Development of a precarity index for Amazonian riverside municipalities. VI National Seminar on Population, Space and Environment, online (invited).\n\n\nMedeiros, T., Dos Santos, B. D., Oliveira, G., Korting, T., & Queiroz, G. (2021). Using the SpatioTemporal Asset Catalog standard for data visualization. XXII Brazilian Symposium on Geoinformatics (GEOINFO), online.\n\n\nDos Santos, B. D., & Pinho, C. M. (2019). Levels of consolidation of precarious settlements based on remote sensing data. XIX Brazilian Symposium on Remote Sensing (SBSR), Santos, Brazil.\n\n\nDos Santos, B. D., & Pinho, C. M. (2017). Object-based analysis of high spatial resolution images for classifying precarious settlements. XVIII Brazilian Symposium on Remote Sensing, Santos, Brazil.\n\n\nDos Santos, B. D., & Pinho, C. M. (2017). Typology of consolidation levels of communities affected by urban evictions based on remote sensing data. Transversal Dialogues INPE-UFABC-USP, São José dos Campos, Brazil (invited).\n\n\nDos Santos, B. D., Lopes, A. S., Hamburger, D. S., Duarte, D., França, H., & Noguhi, R. Y. (2014). Cartography teaching practices in the Quilombola Community of Poça in Eldorado/Jacupiranga-SP. IV Grande ABC Research Symposium, São Bernardo do Campo, Brazil."
+  },
+  {
+    "objectID": "research.html#research-projects",
+    "href": "research.html#research-projects",
+    "title": "Research",
+    "section": "Research projects",
+    "text": "Research projects\n\nData-Driven Equity Standards (2023-present) - PhD researcher, Mobilizing Justice Partnership, McMaster University.\n\n\nEvictions Observatory (Observatório de Remoções) (2015-2017) - Undergraduate researcher on the mapping team, studying consolidation levels of communities affected by urban evictions using remote sensing data. Supervised by Carolina M. D. de Pinho; funded by the Ford Foundation."
+  }
+]
